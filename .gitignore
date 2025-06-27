@@ -1,0 +1,37 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment files
+.env
+.venv
+
+
+# Database
+*.sqlite3
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+# Temporary files
+*.tmp
+# Backup files
+*.bak
+# Coverage reports
+coverage.xml
+
+*.dat
+*.txt
