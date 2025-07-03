@@ -35,3 +35,16 @@ coverage.xml
 
 *.dat
 *.txt
+
+# for django projects
+*.pyc
+*.pyo
+# Django migrations
+migrations/
+# Static files
+staticfiles/
+# Media files
+media/
+# Pytest cache
+.pytest_cache/
+# PyCharm project files
