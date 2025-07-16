@@ -38,3 +38,12 @@ class Mobile:
 
 realme = Mobile()
 realme.show_model()
+
+class Mobile:
+    model = 'Nothing Phone 1'
+
+    @staticmethod
+    def show_model():
+        print(Mobile.model)
+realme = Mobile()
+realme.show_model()
